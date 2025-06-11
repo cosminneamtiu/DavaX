@@ -1,5 +1,5 @@
 -- ============================================================================
--- Script  : TimesheetDB_Annotated.sql
+-- Script  : TimesheetDB_script.sql
 -- Author  : Neamtiu Cosmin Adrian
 -- Purpose : Complete DDL/DML script for the TimesheetDB sample database *with
 --            inline comments explaining the intent of every section,
