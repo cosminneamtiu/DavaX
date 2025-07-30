@@ -1,0 +1,6 @@
+click
+pydantic
+fastapi
+uvicorn
+pydantic
+sqlite-utils
